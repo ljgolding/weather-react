@@ -8,8 +8,11 @@ function App() {
      
         <p>
        <Weather />
+
+
+
         </p>
- 
+ <a href="https://github.com/ljgolding/weather-react" target=""> Open Source Code </a> by Lindsay Golding
     </div>
   );
 }
